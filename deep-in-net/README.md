@@ -12,7 +12,7 @@ In this project, we explore various networking concepts and protocols using Cisc
 
 ## **Exercise 1**
 
-![picture](/deep-in-net/ex01.png)
+![picture](/ex01.png)
 
 ### **1. What is an RJ-45 cable?**
 
@@ -27,7 +27,7 @@ An RJ-45 cable is a network cable used to connect devices like computers, router
 
 ## **Exercise 2**
 
-![picture](/deep-in-net/ex02.png)
+![picture](/ex02.png)
 
 ### **1. The function of a switch and a hub, how they operate, and their role in networking:**
 
@@ -53,7 +53,7 @@ An RJ-45 cable is a network cable used to connect devices like computers, router
 
 ## **Exercise 3**
 
-![video](/deep-in-net/ex03.gif)
+![video](/ex03.gif)
 
 ### **1. Define a server and its purpose in networking.**
 
@@ -116,7 +116,7 @@ A **port** is a number that identifies a specific service or process on a device
 
 ## **Exercise 4**
 
-![picture](/deep-in-net/ex04.png)
+![picture](/ex04.png)
 
 ### **1. What is a router and what is its role?**
 
@@ -143,13 +143,13 @@ A **default gateway** is the router's IP address that allows devices in a networ
 
 ## **Exercise 5**
 
-![picture](/deep-in-net/ex05.png)
+![picture](/ex05.png)
 
 ---
 
 ## **Exercise 6**
 
-![picture](/deep-in-net/ex06.png)
+![picture](/ex06.png)
 
 ### **What is a routing table and explain its role in routing network traffic?**
 
@@ -161,10 +161,10 @@ When a router receives a packet, it looks up the destination IP address in the r
 
 ## **Exercise 7**
 
-![picture](/deep-in-net/ex07.png)
+![picture](/ex07.png)
 
 ---
 
 ## **Exercise 8**
 
-![picture](/deep-in-net/ex08.png)
+![picture](/ex08.png)
