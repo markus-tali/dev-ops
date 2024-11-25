@@ -4,7 +4,7 @@
 
 Here are all the answers to the questions in the audit page with pictures.
 
-## exercise 1
+# exercise 1
 
 ![picture](/deep-in-net/ex01.png)
 
@@ -17,11 +17,11 @@ An RJ-45 cable is a network cable used to connect devices like computers, router
 Straight-through cable: The wires on both ends are in the same order. It connects **different** devices, like a computer to a router.
 Crossover cable: The wires on one end are rearranged to cross over. It connects **similar** devices, like one computer to another.
 
-## exercise 2
+# exercise 2
 
 ![picture](/deep-in-net/ex02.png)
 
-# **1. The function of a switch and a hub, how they operate and their role in networking:**
+### **1. The function of a switch and a hub, how they operate and their role in networking:**
 
 **Switch:**
 
@@ -39,7 +39,7 @@ Crossover cable: The wires on one end are rearranged to cross over. It connects 
 - Sends data to every connected device.
 - Less efficient and causes network traffic.
 
-# **2. Differences Between Switch and Hub:**
+### **2. Differences Between Switch and Hub:**
 
 | Feature           | Switch                          | Hub                            |
 | ----------------- | ------------------------------- | ------------------------------ |
@@ -49,7 +49,7 @@ Crossover cable: The wires on one end are rearranged to cross over. It connects 
 | **Cost**          | More expensive                  | Cheaper                        |
 | **Modern Use**    | Commonly used                   | Rarely used                    |
 
-# **3. OSI Model Layer:**
+### **3. OSI Model Layer:**
 
 1. **Switch:**
 
@@ -59,6 +59,9 @@ Crossover cable: The wires on one end are rearranged to cross over. It connects 
 2. **Hub:**
    - Operates on **Layer 1** (Physical Layer) as it does not process or understand data.
 
-## exercise 3
+# exercise 3
 
-![video](/deep-in-net/ex03.mp4)
+<video width="600" controls>
+  <source src="/deep-in-net/ex03.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
