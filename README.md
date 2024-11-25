@@ -61,4 +61,4 @@ Crossover cable: The wires on one end are rearranged to cross over. It connects 
 
 # exercise 3
 
-![video] (/deep-in-net/ex03.gif)
+![video](/deep-in-net/ex03.gif)
