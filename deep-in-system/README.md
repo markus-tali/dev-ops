@@ -1,5 +1,7 @@
 1. The Virtual Machine Part:
 
+Installing ubuntu server as a virtual machine:
+
 2. The Network Part:
 
 Setting a private IP address with netmask:
@@ -30,10 +32,10 @@ network:
 
 Now the server has a static ip address (192.168.1.100/24)
 
-![picture](/pictures/showingIpAddress.png)
+![picture](/deep-in-system/pictures/showingIpAddress.png)
 
 Pinging Google is successful
 
-![picture](/pictures/pingingGoogle.png)
+![picture](/deep-in-system/pictures/pingingGoogle.png)
 
 3. The security part
