@@ -136,15 +136,16 @@ This project was made by Kaileen Umal (kumal) and Markus Tali (mtali)
 
 - Pasted the public key into `authorized_keys`.
 
-````bash
+```bash
   sudo chmod 600 /home/luffy/.ssh/authorized_keys
   sudo chown -R luffy:luffy /home/luffy/.ssh
-  ```
+```
 
 2. **zoro (Password Authentication, Non-Sudoer):**
+
 ```bash
 sudo adduser zoro
-````
+```
 
 ---
 
